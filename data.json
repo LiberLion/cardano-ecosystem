@@ -106,19 +106,19 @@
       {
         "name": "Fluree",
         "link": "https://flur.ee/",
-        "image": "DnIk1keY_400x400",
+        "image": "/cardano-ecosystem/icons/DnIk1keY_400x400.jpeg",
         "twitter": "FlureePBC"
       },
       {
         "name": "Blockfrost",
         "link": "https://blockfrost.io/",
-        "image": "NAXj6WfG_400x400.jpg",
+        "image": "/cardano-ecosystem/icons/NAXj6WfG_400x400.jpeg",
         "twitter": "blockfrost_io"
       },
       {
         "name": "Dandelion",
         "link": "https://dandelion.link/",
-        "image": "7iQFliKU_400x400.jpg",
+        "image": "/cardano-ecosystem/icons/7iQFliKU_400x400.jpeg",
         "twitter": "DandelionLink"
       }
     ]
@@ -187,43 +187,43 @@
       {
         "name": "ADAZOO",
         "link": "https://www.adazoo.com/",
-        "image": "9qEhO7Dx_400x400.jpg",
+        "image": "/cardano-ecosystem/icons/9qEhO7Dx_400x400.jpeg",
         "twitter": "adazooNFT"
       },
       {
         "name": "Artano",
         "link": "https://artano.io/",
-        "image": "nBrKnJ6Q_400x400.jpg",
+        "image": "/cardano-ecosystem/icons/nBrKnJ6Q_400x400.jpeg",
         "twitter": "artano__io"
       },
       {
         "name": "Bondly",
         "link": "https://www.bondly.finance/",
-        "image": "531IfE92_400x400.jpg",
+        "image": "/cardano-ecosystem/icons/531IfE92_400x400.jpeg",
         "twitter": "BondlyFinance"
       },
       {
         "name": "CardanoTales",
         "link": "https://www.cardanotales.com/",
-        "image": "sguZzxBD_400x400",
+        "image": "/cardano-ecosystem/icons/sguZzxBD_400x400.jpeg",
         "twitter": "CardanoTales"
       },
       {
         "name": "NFT-DAO",
         "link": "https://nft-dao.org/",
-        "image": "nD-yMmiO_400x400.png",
+        "image": "/cardano-ecosystem/icons/nD-yMmiO_400x400.png",
         "twitter": "nft_dao"
       },
       {
         "name": "NiftyTeddy",
         "link": "https://niftyteddy.com/",
-        "image": "qIoELSQ7_400x400",
+        "image": "/cardano-ecosystem/icons/qIoELSQ7_400x400.jpeg",
         "twitter": "nifty_teddy"
       },
       {
         "name": "PlayerMint",
         "link": "https://playermint.com/",
-        "image": "2EZsYbPv_400x400",
+        "image": "/cardano-ecosystem/icons/2EZsYbPv_400x400.jpeg",
         "twitter": "theplayermint"
       }
     ]
@@ -234,19 +234,19 @@
       {
         "name": "Charli3",
         "link": "https://charli3.io/",
-        "image": "fm9N4ten_400x400",
+        "image": "/cardano-ecosystem/icons/fm9N4ten_400x400.jpeg",
         "twitter": "Oraclecharli3"
       },
       {
         "name": "Ergo",
         "link": "https://ergoplatform.org/",
-        "image": "43k73261_400x400",
+        "image": "/cardano-ecosystem/icons/43k73261_400x400.jpeg",
         "twitter": "ergoplatformorg"
       },
       {
         "name": "Wolfram",
         "link": "https://www.wolfram.com/",
-        "image": "RqPloDPr_400x400",
+        "image": "/cardano-ecosystem/icons/RqPloDPr_400x400.png",
         "twitter": "Wolfram_Alpha"
       }
     ]
