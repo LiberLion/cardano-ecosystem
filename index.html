@@ -180,12 +180,7 @@
     const screenshot = document.getElementById('screenshot');
     screenshot.onclick = function () {
         html2canvas(document.querySelector("#list")).then(canvas => {
-
-            const image = new Image();
-            image.src = canvas.toDataURL();
-
-            const w = window.open("");
-            w.document.write(image.outerHTML);
+            window.open(canvas.toDataURL());
         });
         return false;
     }
