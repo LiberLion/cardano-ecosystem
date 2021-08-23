@@ -1,0 +1,192 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="preload" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&amp;display=swap" as="style"
+          type="text/css" crossorigin="">
+    <!--suppress CssUnusedSymbol -->
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            padding: 0;
+            margin: 0;
+            font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+            font-size: 16px;
+            color: #ffffff;
+            background-color: #222;
+        }
+
+        header {
+            padding: 5rem 6rem;
+            color: #fff;
+            text-align: center;
+            background-color: #159957;
+            background-image: linear-gradient(120deg, #155799, #159957);
+        }
+
+        header h1 {
+            font-size: 3.25rem;
+            margin-top: 0;
+            margin-bottom: 0.1rem;
+        }
+
+        header .btn {
+            padding: 0.75rem 1rem;
+            display: inline-block;
+            color: rgba(255, 255, 255, 0.7);
+            background-color: rgba(255, 255, 255, 0.08);
+            border: solid 1px rgba(255, 255, 255, 0.2);
+            border-radius: 0.3rem;
+            transition: color 0.2s, background-color 0.2s, border-color 0.2s;
+            cursor: pointer;
+        }
+
+        a {
+            color: #ccc;
+            text-decoration: none;
+        }
+
+        #legend a {
+            display: block;
+        }
+
+        #content {
+            max-width: 50rem;
+            padding: 2rem 2rem;
+            margin: 0 auto;
+            font-size: 1.1rem;
+            word-wrap: break-word;
+            background-color: #222;
+        }
+
+        #content h2 {
+            margin-top: 2rem;
+            margin-bottom: 1rem;
+            font-weight: normal;
+            color: #159957;
+        }
+
+        #content .row {
+            margin-bottom: 10px;
+        }
+
+        .row img {
+            height: 40px;
+            margin-right: 10px;
+            vertical-align: middle;
+            border-radius: 3px;
+        }
+
+        .row iframe {
+            float: right;
+        }
+    </style>
+
+    <title>The Cardano Ecosystem</title>
+</head>
+<body>
+
+<header>
+
+    <h1>The Cardano Ecosystem</h1>
+
+    <a class="btn" id="screenshot">Screenshot</a>
+    <a class="btn" href="https://github.com/Jleagle/cardano-ecosystem/edit/main/data.json">Found a mistake?</a>
+
+</header>
+
+<main id="content">
+    <ul id="legend"></ul>
+    <div id="list"></div>
+</main>
+
+<script type="text/javascript">
+
+    fetch('data.json')
+        .then(response => response.json())
+        .then(function (data) {
+
+            const legend = document.getElementById('legend');
+            const list = document.getElementById('list');
+            const noImg = 'icons/3d-5joMC_400x400.jpg';
+
+            function slug(text) {
+                return text.toLowerCase().replace(/[^\w ]+/g, '').replace(/ +/g, '-')
+            }
+
+            data.forEach(function (category) {
+
+                const title = document.createElement("h2");
+                title.innerText = category.name;
+                title.id = slug(category.name)
+                list.appendChild(title)
+
+                const legendTitle = document.createElement('a')
+                legendTitle.href = '#' + slug(category.name);
+                legendTitle.innerText = category.name;
+
+                const li = document.createElement('li')
+                li.appendChild(legendTitle)
+
+                legend.appendChild(li)
+
+                category.list.sort(function (a, b) {
+                    return a.name < b.name ? -1 : 1
+                });
+
+                category.list.forEach(function (site) {
+
+                    const image = document.createElement('img')
+                    image.src = site.image ? site.image : noImg
+                    image.alt = site.name
+
+                    const link = document.createElement('a');
+                    link.href = site.link
+                    link.appendChild(image)
+                    link.appendChild(document.createTextNode(site.name))
+
+                    const row = document.createElement('p')
+                    row.classList.add('row')
+                    row.appendChild(link)
+
+                    if (site.twitter) {
+                        const twitter = document.createElement('a')
+                        twitter.classList.add('twitter-follow-button')
+                        twitter.href = 'https://twitter.com/' + site.twitter
+                        twitter.setAttribute('data-size', 'large');
+                        twitter.setAttribute('data-show-screen-name', 'false')
+                        twitter.setAttribute('data-html2canvas-ignore', 'true')
+                        row.appendChild(twitter)
+                    }
+
+                    list.appendChild(row)
+                });
+            });
+        })
+</script>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<script src="https://html2canvas.hertzen.com/dist/html2canvas.min.js" charset="utf-8"></script>
+<script type="text/javascript">
+
+    const screenshot = document.getElementById('screenshot');
+    screenshot.onclick = function () {
+        html2canvas(document.querySelector("#list")).then(canvas => {
+
+            const image = new Image();
+            image.src = canvas.toDataURL();
+
+            const w = window.open("");
+            w.document.write(image.outerHTML);
+        });
+        return false;
+    }
+</script>
+
+</body>
+</html>
