@@ -21,7 +21,7 @@
         "twitter": "CardaxDEX"
       },
       {
-        "name": "Chefswap",
+        "name": "ChefSwap",
         "link": "https://www.chefswap.org/",
         "image": "/cardano-ecosystem/icons/jkkTMrY__400x400.jpg",
         "twitter": "ChefSwapADA"
@@ -45,25 +45,25 @@
         "twitter": "ErgoDex"
       },
       {
-        "name": "Malidex (Daemon Exchange)",
+        "name": "Maladex (Daemon Exchange)",
         "link": "https://maladex.com/",
         "image": "/cardano-ecosystem/icons/ygZJM1Y5_400x400.jpg",
         "twitter": "cardanomaladex"
       },
       {
-        "name": "matrixswap",
+        "name": "Matrixswap",
         "link": "https://www.matrixswap.io/",
         "image": "/cardano-ecosystem/icons/nYGHNWiB_400x400.jpg",
         "twitter": "matrixswap"
       },
       {
-        "name": "MiniSwap",
+        "name": "Miniswap",
         "link": "https://minswap.org/",
         "image": "/cardano-ecosystem/icons/nnIS8ybh_400x400.jpg",
         "twitter": "MinswapDEX"
       },
       {
-        "name": "MiRQUR",
+        "name": "MIRQUR",
         "link": "https://mirqur.io/",
         "image": "/cardano-ecosystem/icons/WZgFnWNF_400x400.jpg",
         "twitter": "Mirqurio"
@@ -81,13 +81,13 @@
         "twitter": "polyswapdex"
       },
       {
-        "name": "Sundae Swap",
+        "name": "SundaeSwap",
         "link": "https://www.sundaeswap.finance/",
         "image": "/cardano-ecosystem/icons/Duwsx57h_400x400.jpg",
         "twitter": "SundaeSwap"
       },
       {
-        "name": "Vy Finance",
+        "name": "VyFi",
         "link": "https://www.vyfi.io/",
         "image": "/cardano-ecosystem/icons/KVHJQUxw_400x400.png",
         "twitter": "VyFiOfficial"
@@ -139,19 +139,19 @@
         "twitter": "OccamFi"
       },
       {
-        "name": "Card Starter",
+        "name": "CardStarter",
         "link": "https://cardstarter.io/",
         "image": "/cardano-ecosystem/icons/ygjMAc9G_400x400.jpg",
         "twitter": "CardStarter"
       },
       {
-        "name": "Ventup.io",
+        "name": "Vent Finance",
         "link": "https://www.vent.finance/",
         "image": "/cardano-ecosystem/icons/xng2rsWI_400x400.jpg",
         "twitter": "VentFinance"
       },
       {
-        "name": "Trustpad",
+        "name": "TrustPad",
         "link": "https://trustpad.io/",
         "image": "/cardano-ecosystem/icons/p3zMHrp1_400x400.jpg",
         "twitter": "TrustPad"
@@ -162,13 +162,13 @@
     "name": "Lending / Borrowing",
     "list": [
       {
-        "name": "Meld",
+        "name": "MELD",
         "link": "https://www.meld.com/",
         "image": "/cardano-ecosystem/icons/aMIkbfuh_400x400.jpg",
         "twitter": "MELD_labs"
       },
       {
-        "name": "AADA Finance",
+        "name": "Aada",
         "link": "https://aada.finance/",
         "image": "/cardano-ecosystem/icons/9fzFEuYa_400x400.jpg",
         "twitter": "AadaFinance"
@@ -180,7 +180,7 @@
         "twitter": "KittyPartyFi"
       },
       {
-        "name": "Liqwid",
+        "name": "Liqwid Finance",
         "link": "https://www.liqwid.finance/",
         "image": "/cardano-ecosystem/icons/roaxsQ1O_400x400.jpg",
         "twitter": "liqwidfinance"
@@ -431,7 +431,7 @@
         "twitter": ""
       },
       {
-        "name": "Ensuro.co",
+        "name": "Ensuro",
         "link": "https://ensuro.co/",
         "image": "/cardano-ecosystem/icons/DmvINfCg_400x400.jpg",
         "twitter": "Ensuroproject"
