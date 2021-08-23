@@ -256,39 +256,27 @@
     "list": [
       {
         "name": "Coti",
-        "link": "",
-        "image": "",
-        "twitter": ""
-      },
-      {
-        "name": "Sempo",
-        "link": "",
-        "image": "",
-        "twitter": ""
+        "link": "https://coti.io/",
+        "image": "/cardano-ecosystem/icons/hvwwNGrq_400x400.jpg",
+        "twitter": "COTInetwork"
       },
       {
         "name": "Celsius",
-        "link": "",
-        "image": "",
-        "twitter": ""
+        "link": "https://celsius.network/",
+        "image": "/cardano-ecosystem/icons/qXhR9MwN_400x400.jpg",
+        "twitter": "CelsiusNetwork"
       },
       {
         "name": "Revuto",
-        "link": "",
-        "image": "",
-        "twitter": ""
-      },
-      {
-        "name": "Metaps+",
-        "link": "",
-        "image": "",
-        "twitter": ""
+        "link": "https://crypto.revuto.com/",
+        "image": "/cardano-ecosystem/icons/PS38n4C-_400x400.jpg",
+        "twitter": "get_revuto"
       },
       {
         "name": "Sirin Labs",
-        "link": "",
-        "image": "",
-        "twitter": ""
+        "link": "https://sirinlabs.com/",
+        "image": "/cardano-ecosystem/icons/IONKHqt7_400x400.jpg",
+        "twitter": "SIRINLABS"
       }
     ]
   },
@@ -297,13 +285,13 @@
     "list": [
       {
         "name": "Stasis",
-        "link": "",
-        "image": "",
-        "twitter": ""
+        "link": "https://stasis.net/",
+        "image": "/cardano-ecosystem/icons/L-VdWixd_400x400.jpg",
+        "twitter": "stasisnet"
       },
       {
         "name": "AgeUSD",
-        "link": "",
+        "link": "https://github.com/Emurgo/age-usd",
         "image": "",
         "twitter": ""
       }
@@ -314,15 +302,15 @@
     "list": [
       {
         "name": "Wrap Assets",
-        "link": "",
-        "image": "",
-        "twitter": ""
+        "link": "https://www.wrapassets.io/",
+        "image": "/cardano-ecosystem/icons/yLqPbOQp_400x400.jpg",
+        "twitter": "WrapAssets"
       },
       {
         "name": "Indigo",
-        "link": "",
-        "image": "",
-        "twitter": ""
+        "link": "https://indigoprotocol.io/",
+        "image": "/cardano-ecosystem/icons/fXBCuR5n_400x400.jpg",
+        "twitter": "Indigo_protocol"
       }
     ]
   },
@@ -331,69 +319,69 @@
     "list": [
       {
         "name": "Ada Lite",
-        "link": "",
-        "image": "",
-        "twitter": ""
+        "link": "https://adalite.io/",
+        "image": "/cardano-ecosystem/icons/ufur73Z5_400x400.jpg",
+        "twitter": "AdaLiteWallet"
       },
       {
         "name": "Atomic Wallet",
-        "link": "",
-        "image": "",
-        "twitter": ""
+        "link": "https://atomicwallet.io/",
+        "image": "/cardano-ecosystem/icons/jAdWyazG_400x400.jpg",
+        "twitter": "AtomicWallet"
       },
       {
         "name": "Daedalus",
-        "link": "",
+        "link": "https://daedaluswallet.io/",
         "image": "",
         "twitter": ""
       },
       {
         "name": "Card Wallet",
-        "link": "",
-        "image": "",
-        "twitter": ""
+        "link": "https://cardwallet.fi/",
+        "image": "/cardano-ecosystem/icons/DlGXBSHK_400x400.png",
+        "twitter": "CardWallet_fi"
       },
       {
         "name": "Gero Wallet",
-        "link": "",
-        "image": "",
-        "twitter": ""
+        "link": "https://gerowallet.io/",
+        "image": "/cardano-ecosystem/icons/PdAQXY8t_400x400.jpg",
+        "twitter": "GeroWallet"
       },
       {
         "name": "Infinito Wallet",
-        "link": "",
-        "image": "",
-        "twitter": ""
+        "link": "https://www.infinitowallet.io/",
+        "image": "/cardano-ecosystem/icons/IHWMQkBO_400x400.jpg",
+        "twitter": "Infinito_Ltd"
       },
       {
         "name": "Ledger",
-        "link": "",
-        "image": "",
-        "twitter": ""
+        "link": "https://www.ledger.com/",
+        "image": "/cardano-ecosystem/icons/N44_mYZ7_400x400.jpg",
+        "twitter": "Ledger"
       },
       {
         "name": "RAY wallet",
-        "link": "",
-        "image": "",
-        "twitter": ""
+        "link": "https://raywallet.io/",
+        "image": "/cardano-ecosystem/icons/PaJuHcLL_400x400.jpg",
+        "twitter": "RayWallet"
       },
       {
         "name": "Tangem",
-        "link": "",
-        "image": "",
-        "twitter": ""
+        "link": "https://tangem.com/",
+        "image": "/cardano-ecosystem/icons/dn0CFxP5_400x400.jpg",
+        "twitter": "Tangem"
       },
       {
         "name": "Trezor",
-        "link": "",
-        "image": "",
-        "twitter": ""
+        "link": "https://trezor.io/",
+        "image": "/cardano-ecosystem/icons/IZYnKA_o_400x400.jpg",
+        "twitter": "Trezor"
       },
       {
         "name": "Yoroi",
-        "link": "",
-        "image": "",
-        "twitter": ""
+        "link": "https://yoroi-wallet.com/",
+        "image": "/cardano-ecosystem/icons/CkzMDV32_400x400.png",
+        "twitter": "YoroiWallet"
       }
     ]
   },
@@ -402,27 +390,15 @@
     "list": [
       {
         "name": "Catallact",
-        "link": "",
-        "image": "",
-        "twitter": ""
-      },
-      {
-        "name": "Diwala",
-        "link": "",
-        "image": "",
-        "twitter": ""
+        "link": "https://www.catallact.com/",
+        "image": "/cardano-ecosystem/icons/cygtCPxj_400x400.png",
+        "twitter": "catallact"
       },
       {
         "name": "Ensuro",
         "link": "https://ensuro.co/",
         "image": "/cardano-ecosystem/icons/DmvINfCg_400x400.jpg",
         "twitter": "Ensuroproject"
-      },
-      {
-        "name": "Goblin",
-        "link": "",
-        "image": "",
-        "twitter": ""
       },
       {
         "name": "Iagon",
@@ -437,16 +413,10 @@
         "twitter": "LedgityPlatform"
       },
       {
-        "name": "Sumee",
-        "link": "",
-        "image": "",
-        "twitter": ""
-      },
-      {
         "name": "Tesseract",
-        "link": "",
-        "image": "",
-        "twitter": ""
+        "link": "https://tesseract.one/",
+        "image": "/cardano-ecosystem/icons/OwjwgIb4_400x400.jpg",
+        "twitter": "tesseract_one"
       }
     ]
   }
