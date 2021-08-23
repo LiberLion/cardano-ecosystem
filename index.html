@@ -184,10 +184,11 @@
     screenshot.onclick = () => {
         html2canvas(document.querySelector("#list")).then(canvas => {
 
+            const w = window.open("");
+
             const image = new Image();
             image.src = canvas.toDataURL();
 
-            const w = window.open("");
             w.document.write(image.outerHTML);
             w.document.close();
         });
