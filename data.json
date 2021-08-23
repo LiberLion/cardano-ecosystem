@@ -1,1 +1,471 @@
-[]
+[
+  {
+    "name": "DEXs (Decentralized Exchanges) / Liquidity",
+    "list": [
+      {
+        "name": "Adax",
+        "link": "https://adax.pro/",
+        "image": "icons/wj6L6bV2_400x400.jpg",
+        "twitter": "adax_pro"
+      },
+      {
+        "name": "Card Swap",
+        "link": "https://www.cardstarter.io/",
+        "image": "61ZCUVeB_400x400.jpg",
+        "twitter": "CardanoSwap"
+      },
+      {
+        "name": "Cardax",
+        "link": "https://cardax.io/",
+        "image": "GBSHsf2q_400x400.jpg",
+        "twitter": "CardaxDEX"
+      },
+      {
+        "name": "Chefswap",
+        "link": "https://www.chefswap.org/",
+        "image": "jkkTMrY__400x400.jpg",
+        "twitter": "ChefSwapADA"
+      },
+      {
+        "name": "Coinlink",
+        "link": "https://coinlink.finance/",
+        "image": "8Bogkafn_400x400.png",
+        "twitter": "CoinlinkFinance"
+      },
+      {
+        "name": "deFIRE",
+        "link": "https://defire.fi/",
+        "image": "xZtU-i02_400x400.jpg",
+        "twitter": "DeFIRE_Fi"
+      },
+      {
+        "name": "ErgoDEX",
+        "link": "https://ergodex.io/",
+        "image": "2Ki1NmIs_400x400.jpg",
+        "twitter": "ErgoDex"
+      },
+      {
+        "name": "Malidex (Daemon Exchange)",
+        "link": "https://maladex.com/",
+        "image": "ygZJM1Y5_400x400.jpg",
+        "twitter": "cardanomaladex"
+      },
+      {
+        "name": "matrixswap",
+        "link": "https://www.matrixswap.io/",
+        "image": "nYGHNWiB_400x400.jpg",
+        "twitter": "matrixswap"
+      },
+      {
+        "name": "MiniSwap",
+        "link": "https://minswap.org/",
+        "image": "nnIS8ybh_400x400.jpg",
+        "twitter": "MinswapDEX"
+      },
+      {
+        "name": "MiRQUR",
+        "link": "https://mirqur.io/",
+        "image": "WZgFnWNF_400x400.jpg",
+        "twitter": "Mirqurio"
+      },
+      {
+        "name": "Orion Protocol",
+        "link": "https://www.orionprotocol.io/",
+        "image": "eiC-mkMP_400x400.jpg",
+        "twitter": "orion_protocol"
+      },
+      {
+        "name": "Polyswap",
+        "link": "https://polyswap.io/",
+        "image": "Uwrj2hnx_400x400.png",
+        "twitter": "polyswapdex"
+      },
+      {
+        "name": "Sundae Swap",
+        "link": "https://www.sundaeswap.finance/",
+        "image": "Duwsx57h_400x400.jpg",
+        "twitter": "SundaeSwap"
+      },
+      {
+        "name": "Vy Finance",
+        "link": "https://www.vyfi.io/",
+        "image": "KVHJQUxw_400x400.png",
+        "twitter": "VyFiOfficial"
+      },
+      {
+        "name": "YaySwap",
+        "link": "https://yayswap.io/",
+        "image": "xt7BsnKW_400x400.png",
+        "twitter": "YaySwap"
+      }
+    ]
+  },
+  {
+    "name": "Graph / Query",
+    "list": [
+      {
+        "name": "Fluree",
+        "link": "",
+        "image": "",
+        "twitter": ""
+      },
+      {
+        "name": "Blockfrost",
+        "link": "",
+        "image": "",
+        "twitter": ""
+      },
+      {
+        "name": "Honeycomb",
+        "link": "",
+        "image": "",
+        "twitter": ""
+      },
+      {
+        "name": "Dandelion",
+        "link": "",
+        "image": "",
+        "twitter": ""
+      }
+    ]
+  },
+  {
+    "name": "IDOs (Initial DEX Offerings)",
+    "list": [
+      {
+        "name": "OccamFi",
+        "link": "https://occam.fi/",
+        "image": "kmwfxPAH_400x400.jpg",
+        "twitter": "OccamFi"
+      },
+      {
+        "name": "Card Starter",
+        "link": "https://cardstarter.io/",
+        "image": "ygjMAc9G_400x400.jpg",
+        "twitter": "CardStarter"
+      },
+      {
+        "name": "Ventup.io",
+        "link": "https://www.vent.finance/",
+        "image": "xng2rsWI_400x400.jpg",
+        "twitter": "VentFinance"
+      },
+      {
+        "name": "Trustpad",
+        "link": "https://trustpad.io/",
+        "image": "p3zMHrp1_400x400.jpg",
+        "twitter": "TrustPad"
+      }
+    ]
+  },
+  {
+    "name": "Lending / Borrowing",
+    "list": [
+      {
+        "name": "Meld",
+        "link": "https://www.meld.com/",
+        "image": "aMIkbfuh_400x400.jpg",
+        "twitter": "MELD_labs"
+      },
+      {
+        "name": "AADA Finance",
+        "link": "https://aada.finance/",
+        "image": "9fzFEuYa_400x400.jpg",
+        "twitter": "AadaFinance"
+      },
+      {
+        "name": "Kitty Party",
+        "link": "",
+        "image": "oZbmxUkM_400x400.jpg",
+        "twitter": "KittyPartyFi"
+      },
+      {
+        "name": "Liqwid",
+        "link": "https://www.liqwid.finance/",
+        "image": "roaxsQ1O_400x400.jpg",
+        "twitter": "liqwidfinance"
+      }
+    ]
+  },
+  {
+    "name": "NFTS (Non-fungible Tokens)",
+    "list": [
+      {
+        "name": "Adazoo",
+        "link": "",
+        "image": "",
+        "twitter": ""
+      },
+      {
+        "name": "Artano",
+        "link": "",
+        "image": "",
+        "twitter": ""
+      },
+      {
+        "name": "BitBunny",
+        "link": "",
+        "image": "",
+        "twitter": ""
+      },
+      {
+        "name": "Bondly",
+        "link": "",
+        "image": "",
+        "twitter": ""
+      },
+      {
+        "name": "CardanoTales",
+        "link": "",
+        "image": "",
+        "twitter": ""
+      },
+      {
+        "name": "NFT-DAO",
+        "link": "",
+        "image": "",
+        "twitter": ""
+      },
+      {
+        "name": "Nifty",
+        "link": "",
+        "image": "",
+        "twitter": ""
+      },
+      {
+        "name": "PlayerMint",
+        "link": "",
+        "image": "",
+        "twitter": ""
+      },
+      {
+        "name": "viff.club",
+        "link": "",
+        "image": "",
+        "twitter": ""
+      }
+    ]
+  },
+  {
+    "name": "Oracles",
+    "list": [
+      {
+        "name": "Charli3",
+        "link": "",
+        "image": "",
+        "twitter": ""
+      },
+      {
+        "name": "Ergo",
+        "link": "",
+        "image": "",
+        "twitter": ""
+      },
+      {
+        "name": "Wolfram Alpha",
+        "link": "",
+        "image": "",
+        "twitter": ""
+      }
+    ]
+  },
+  {
+    "name": "Payment",
+    "list": [
+      {
+        "name": "Coti",
+        "link": "",
+        "image": "",
+        "twitter": ""
+      },
+      {
+        "name": "Sempo",
+        "link": "",
+        "image": "",
+        "twitter": ""
+      },
+      {
+        "name": "Celsius",
+        "link": "",
+        "image": "",
+        "twitter": ""
+      },
+      {
+        "name": "Revuto",
+        "link": "",
+        "image": "",
+        "twitter": ""
+      },
+      {
+        "name": "Metaps+",
+        "link": "",
+        "image": "",
+        "twitter": ""
+      },
+      {
+        "name": "Sirin Labs",
+        "link": "",
+        "image": "",
+        "twitter": ""
+      }
+    ]
+  },
+  {
+    "name": "Stablecoins",
+    "list": [
+      {
+        "name": "Stasis",
+        "link": "",
+        "image": "",
+        "twitter": ""
+      },
+      {
+        "name": "AgeUSD",
+        "link": "",
+        "image": "",
+        "twitter": ""
+      }
+    ]
+  },
+  {
+    "name": "Synthetic Assets",
+    "list": [
+      {
+        "name": "Wrap Assets",
+        "link": "",
+        "image": "",
+        "twitter": ""
+      },
+      {
+        "name": "Indigo",
+        "link": "",
+        "image": "",
+        "twitter": ""
+      }
+    ]
+  },
+  {
+    "name": "Wallets",
+    "list": [
+      {
+        "name": "Ada Lite",
+        "link": "",
+        "image": "",
+        "twitter": ""
+      },
+      {
+        "name": "Atomic Wallet",
+        "link": "",
+        "image": "",
+        "twitter": ""
+      },
+      {
+        "name": "Daedalus",
+        "link": "",
+        "image": "",
+        "twitter": ""
+      },
+      {
+        "name": "Card Wallet",
+        "link": "",
+        "image": "",
+        "twitter": ""
+      },
+      {
+        "name": "Gero Wallet",
+        "link": "",
+        "image": "",
+        "twitter": ""
+      },
+      {
+        "name": "Infinito Wallet",
+        "link": "",
+        "image": "",
+        "twitter": ""
+      },
+      {
+        "name": "Ledger",
+        "link": "",
+        "image": "",
+        "twitter": ""
+      },
+      {
+        "name": "RAY wallet",
+        "link": "",
+        "image": "",
+        "twitter": ""
+      },
+      {
+        "name": "Tangem",
+        "link": "",
+        "image": "",
+        "twitter": ""
+      },
+      {
+        "name": "Trezor",
+        "link": "",
+        "image": "",
+        "twitter": ""
+      },
+      {
+        "name": "Yoroi",
+        "link": "",
+        "image": "",
+        "twitter": ""
+      }
+    ]
+  },
+  {
+    "name": "Misc",
+    "list": [
+      {
+        "name": "Catallact",
+        "link": "",
+        "image": "",
+        "twitter": ""
+      },
+      {
+        "name": "Diwala",
+        "link": "",
+        "image": "",
+        "twitter": ""
+      },
+      {
+        "name": "Ensuro.co",
+        "link": "https://ensuro.co/",
+        "image": "DmvINfCg_400x400.jpg",
+        "twitter": "Ensuroproject"
+      },
+      {
+        "name": "Goblin",
+        "link": "",
+        "image": "",
+        "twitter": ""
+      },
+      {
+        "name": "Iagon",
+        "link": "https://iagon.com/",
+        "image": "pyIiQ2XM_400x400.jpg",
+        "twitter": "iagonofficial"
+      },
+      {
+        "name": "Ledgity",
+        "link": "https://www.ledgity.com/",
+        "image": "DE9Ps_Vq_400x400.jpg",
+        "twitter": "LedgityPlatform"
+      },
+      {
+        "name": "Sumee",
+        "link": "",
+        "image": "",
+        "twitter": ""
+      },
+      {
+        "name": "Tesseract",
+        "link": "",
+        "image": "",
+        "twitter": ""
+      }
+    ]
+  }
+]
