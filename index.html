@@ -139,7 +139,7 @@
                 legend.appendChild(li)
 
                 category.list.sort(function (a, b) {
-                    return a.name < b.name ? -1 : 1
+                    return a.name.toLowerCase() < b.name.toLowerCase() ? -1 : 1
                 });
 
                 category.list.forEach(function (site) {
