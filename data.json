@@ -5,97 +5,97 @@
       {
         "name": "Adax",
         "link": "https://adax.pro/",
-        "image": "icons/wj6L6bV2_400x400.jpg",
+        "image": "/cardano-ecosystem/icons/wj6L6bV2_400x400.jpg",
         "twitter": "adax_pro"
       },
       {
         "name": "Card Swap",
         "link": "https://www.cardstarter.io/",
-        "image": "61ZCUVeB_400x400.jpg",
+        "image": "/cardano-ecosystem/icons/61ZCUVeB_400x400.jpg",
         "twitter": "CardanoSwap"
       },
       {
         "name": "Cardax",
         "link": "https://cardax.io/",
-        "image": "GBSHsf2q_400x400.jpg",
+        "image": "/cardano-ecosystem/icons/GBSHsf2q_400x400.jpg",
         "twitter": "CardaxDEX"
       },
       {
         "name": "Chefswap",
         "link": "https://www.chefswap.org/",
-        "image": "jkkTMrY__400x400.jpg",
+        "image": "/cardano-ecosystem/icons/jkkTMrY__400x400.jpg",
         "twitter": "ChefSwapADA"
       },
       {
         "name": "Coinlink",
         "link": "https://coinlink.finance/",
-        "image": "8Bogkafn_400x400.png",
+        "image": "/cardano-ecosystem/icons/8Bogkafn_400x400.png",
         "twitter": "CoinlinkFinance"
       },
       {
         "name": "deFIRE",
         "link": "https://defire.fi/",
-        "image": "xZtU-i02_400x400.jpg",
+        "image": "/cardano-ecosystem/icons/xZtU-i02_400x400.jpg",
         "twitter": "DeFIRE_Fi"
       },
       {
         "name": "ErgoDEX",
         "link": "https://ergodex.io/",
-        "image": "2Ki1NmIs_400x400.jpg",
+        "image": "/cardano-ecosystem/icons/2Ki1NmIs_400x400.jpg",
         "twitter": "ErgoDex"
       },
       {
         "name": "Malidex (Daemon Exchange)",
         "link": "https://maladex.com/",
-        "image": "ygZJM1Y5_400x400.jpg",
+        "image": "/cardano-ecosystem/icons/ygZJM1Y5_400x400.jpg",
         "twitter": "cardanomaladex"
       },
       {
         "name": "matrixswap",
         "link": "https://www.matrixswap.io/",
-        "image": "nYGHNWiB_400x400.jpg",
+        "image": "/cardano-ecosystem/icons/nYGHNWiB_400x400.jpg",
         "twitter": "matrixswap"
       },
       {
         "name": "MiniSwap",
         "link": "https://minswap.org/",
-        "image": "nnIS8ybh_400x400.jpg",
+        "image": "/cardano-ecosystem/icons/nnIS8ybh_400x400.jpg",
         "twitter": "MinswapDEX"
       },
       {
         "name": "MiRQUR",
         "link": "https://mirqur.io/",
-        "image": "WZgFnWNF_400x400.jpg",
+        "image": "/cardano-ecosystem/icons/WZgFnWNF_400x400.jpg",
         "twitter": "Mirqurio"
       },
       {
         "name": "Orion Protocol",
         "link": "https://www.orionprotocol.io/",
-        "image": "eiC-mkMP_400x400.jpg",
+        "image": "/cardano-ecosystem/icons/eiC-mkMP_400x400.jpg",
         "twitter": "orion_protocol"
       },
       {
         "name": "Polyswap",
         "link": "https://polyswap.io/",
-        "image": "Uwrj2hnx_400x400.png",
+        "image": "/cardano-ecosystem/icons/Uwrj2hnx_400x400.png",
         "twitter": "polyswapdex"
       },
       {
         "name": "Sundae Swap",
         "link": "https://www.sundaeswap.finance/",
-        "image": "Duwsx57h_400x400.jpg",
+        "image": "/cardano-ecosystem/icons/Duwsx57h_400x400.jpg",
         "twitter": "SundaeSwap"
       },
       {
         "name": "Vy Finance",
         "link": "https://www.vyfi.io/",
-        "image": "KVHJQUxw_400x400.png",
+        "image": "/cardano-ecosystem/icons/KVHJQUxw_400x400.png",
         "twitter": "VyFiOfficial"
       },
       {
         "name": "YaySwap",
         "link": "https://yayswap.io/",
-        "image": "xt7BsnKW_400x400.png",
+        "image": "/cardano-ecosystem/icons/xt7BsnKW_400x400.png",
         "twitter": "YaySwap"
       }
     ]
@@ -135,25 +135,25 @@
       {
         "name": "OccamFi",
         "link": "https://occam.fi/",
-        "image": "kmwfxPAH_400x400.jpg",
+        "image": "/cardano-ecosystem/icons/kmwfxPAH_400x400.jpg",
         "twitter": "OccamFi"
       },
       {
         "name": "Card Starter",
         "link": "https://cardstarter.io/",
-        "image": "ygjMAc9G_400x400.jpg",
+        "image": "/cardano-ecosystem/icons/ygjMAc9G_400x400.jpg",
         "twitter": "CardStarter"
       },
       {
         "name": "Ventup.io",
         "link": "https://www.vent.finance/",
-        "image": "xng2rsWI_400x400.jpg",
+        "image": "/cardano-ecosystem/icons/xng2rsWI_400x400.jpg",
         "twitter": "VentFinance"
       },
       {
         "name": "Trustpad",
         "link": "https://trustpad.io/",
-        "image": "p3zMHrp1_400x400.jpg",
+        "image": "/cardano-ecosystem/icons/p3zMHrp1_400x400.jpg",
         "twitter": "TrustPad"
       }
     ]
@@ -164,25 +164,25 @@
       {
         "name": "Meld",
         "link": "https://www.meld.com/",
-        "image": "aMIkbfuh_400x400.jpg",
+        "image": "/cardano-ecosystem/icons/aMIkbfuh_400x400.jpg",
         "twitter": "MELD_labs"
       },
       {
         "name": "AADA Finance",
         "link": "https://aada.finance/",
-        "image": "9fzFEuYa_400x400.jpg",
+        "image": "/cardano-ecosystem/icons/9fzFEuYa_400x400.jpg",
         "twitter": "AadaFinance"
       },
       {
         "name": "Kitty Party",
         "link": "",
-        "image": "oZbmxUkM_400x400.jpg",
+        "image": "/cardano-ecosystem/icons/oZbmxUkM_400x400.jpg",
         "twitter": "KittyPartyFi"
       },
       {
         "name": "Liqwid",
         "link": "https://www.liqwid.finance/",
-        "image": "roaxsQ1O_400x400.jpg",
+        "image": "/cardano-ecosystem/icons/roaxsQ1O_400x400.jpg",
         "twitter": "liqwidfinance"
       }
     ]
@@ -433,7 +433,7 @@
       {
         "name": "Ensuro.co",
         "link": "https://ensuro.co/",
-        "image": "DmvINfCg_400x400.jpg",
+        "image": "/cardano-ecosystem/icons/DmvINfCg_400x400.jpg",
         "twitter": "Ensuroproject"
       },
       {
@@ -445,13 +445,13 @@
       {
         "name": "Iagon",
         "link": "https://iagon.com/",
-        "image": "pyIiQ2XM_400x400.jpg",
+        "image": "/cardano-ecosystem/icons/pyIiQ2XM_400x400.jpg",
         "twitter": "iagonofficial"
       },
       {
         "name": "Ledgity",
         "link": "https://www.ledgity.com/",
-        "image": "DE9Ps_Vq_400x400.jpg",
+        "image": "/cardano-ecosystem/icons/DE9Ps_Vq_400x400.jpg",
         "twitter": "LedgityPlatform"
       },
       {

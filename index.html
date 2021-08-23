@@ -107,13 +107,13 @@
 
 <script type="text/javascript">
 
-    fetch('data.json')
+    fetch('/cardano-ecosystem/data.json')
         .then(response => response.json())
         .then(function (data) {
 
             const legend = document.getElementById('legend');
             const list = document.getElementById('list');
-            const noImg = 'icons/3d-5joMC_400x400.jpg';
+            const noImg = '/cardano-ecosystem/icons/3d-5joMC_400x400.jpg';
 
             function slug(text) {
                 return text.toLowerCase().replace(/[^\w ]+/g, '').replace(/ +/g, '-')
