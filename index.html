@@ -187,6 +187,7 @@
 
             const w = window.open("");
             w.document.write(image.outerHTML);
+            w.document.close();
         });
         return false;
     }
