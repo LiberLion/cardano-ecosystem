@@ -114,7 +114,7 @@
 
     fetch('/cardano-ecosystem/data.json')
         .then(response => response.json())
-        .then(function (data) {
+        .then(data => {
 
             const legend = document.getElementById('legend');
             const list = document.getElementById('list');
@@ -181,7 +181,7 @@
 <script type="text/javascript">
 
     const screenshot = document.getElementById('screenshot');
-    screenshot.onclick = function () {
+    screenshot.onclick = () => {
         html2canvas(document.querySelector("#list")).then(canvas => {
 
             const image = new Image();
