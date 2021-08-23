@@ -148,7 +148,7 @@
                     image.src = site.image ? site.image : noImg
                     image.alt = site.name
 
-                    const link = document.createElement('a');
+                    const link = document.createElement(site.link ? 'a' : 'span');
                     link.href = site.link
                     link.target = '_blank'
                     link.appendChild(image)
