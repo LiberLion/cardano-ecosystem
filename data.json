@@ -324,7 +324,7 @@
         "twitter": "AdaLiteWallet"
       },
       {
-        "name": "Atomic Wallet",
+        "name": "Atomic",
         "link": "https://atomicwallet.io/",
         "image": "/cardano-ecosystem/icons/jAdWyazG_400x400.jpg",
         "twitter": "AtomicWallet"
@@ -336,19 +336,19 @@
         "twitter": ""
       },
       {
-        "name": "Card Wallet",
+        "name": "Card",
         "link": "https://cardwallet.fi/",
         "image": "/cardano-ecosystem/icons/DlGXBSHK_400x400.png",
         "twitter": "CardWallet_fi"
       },
       {
-        "name": "Gero Wallet",
+        "name": "Gero",
         "link": "https://gerowallet.io/",
         "image": "/cardano-ecosystem/icons/PdAQXY8t_400x400.jpg",
         "twitter": "GeroWallet"
       },
       {
-        "name": "Infinito Wallet",
+        "name": "Infinito",
         "link": "https://www.infinitowallet.io/",
         "image": "/cardano-ecosystem/icons/IHWMQkBO_400x400.jpg",
         "twitter": "Infinito_Ltd"
@@ -360,7 +360,7 @@
         "twitter": "Ledger"
       },
       {
-        "name": "RAY wallet",
+        "name": "RAY",
         "link": "https://raywallet.io/",
         "image": "/cardano-ecosystem/icons/PaJuHcLL_400x400.jpg",
         "twitter": "RayWallet"
