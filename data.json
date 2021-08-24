@@ -1,5 +1,22 @@
 [
   {
+    "name": "Official",
+    "list": [
+      {
+        "name": "Cardano Foundation",
+        "link": "https://cardanofoundation.org/",
+        "image": "/cardano-ecosystem/icons/3d-5joMC_400x400.jpg",
+        "twitter": "CardanoStiftung"
+      },
+      {
+        "name": "Blockfrost",
+        "link": "https://iohk.io/",
+        "image": "/cardano-ecosystem/icons/Tpdb5FCa_400x400.jpg",
+        "twitter": "InputOutputHK"
+      }
+    ]
+  },
+  {
     "name": "DEXs (Decentralized Exchanges) / Liquidity",
     "list": [
       {
@@ -277,6 +294,107 @@
         "link": "https://sirinlabs.com/",
         "image": "/cardano-ecosystem/icons/IONKHqt7_400x400.jpg",
         "twitter": "SIRINLABS"
+      }
+    ]
+  },
+  {
+    "name": "Pools",
+    "list": [
+      {
+        "name": "PoolTool",
+        "link": "https://pooltool.io/",
+        "image": "/cardano-ecosystem/icons/-XEz25pc_400x400.png",
+        "twitter": "PooltoolI"
+      },
+      {
+        "name": "pool.pm",
+        "link": "https://pool.pm/",
+        "image": "/cardano-ecosystem/icons/-RKwaJmC_400x400.jpg",
+        "twitter": "pool_pm"
+      },
+      {
+        "name": "Cardanoscan",
+        "link": "https://cardanoscan.io/",
+        "image": "/cardano-ecosystem/icons/y6F-zEIW_400x400.jpg",
+        "twitter": "cardanoscanio"
+      },
+      {
+        "name": "ADAPools",
+        "link": "https://adapools.org/",
+        "image": "/cardano-ecosystem/icons/Ln5yBMHh_400x400.png",
+        "twitter": "adapools_org"
+      },
+      {
+        "name": "Pools Stats",
+        "link": "https://poolstats.org/",
+        "image": "",
+        "twitter": ""
+      },
+      {
+        "name": "ADAex",
+        "link": "https://adaex.org/",
+        "image": "/cardano-ecosystem/icons/7-Qo59rH_400x400.jpg",
+        "twitter": "AdaexOrg"
+      },
+      {
+        "name": "Pool.vet",
+        "link": "https://pool.vet/",
+        "image": "",
+        "twitter": ""
+      },
+      {
+        "name": "Pool Peek",
+        "link": "https://poolpeek.com/#/",
+        "image": "/cardano-ecosystem/icons/Jq13UHQO_400x400.jpg",
+        "twitter": "CardanoPoolPeek"
+      },
+      {
+        "name": "adafolio",
+        "link": "https://adafolio.com/",
+        "image": "/cardano-ecosystem/icons/nb6b6htE_400x400.jpg",
+        "twitter": "adafolio1"
+      },
+      {
+        "name": "Stake Pool Central",
+        "link": "https://stakepoolcentral.com/",
+        "image": "/cardano-ecosystem/icons/qPwMsdvi_400x400.jpg",
+        "twitter": "CentStakePool"
+      },
+      {
+        "name": "Delegation Tracker",
+        "link": "https://delegationtracker.com/",
+        "image": "/cardano-ecosystem/icons/T2x-kBad_400x400.jpg",
+        "twitter": "delegationai"
+      },
+      {
+        "name": "Cardano Waves",
+        "link": "https://cardanowaves.com/",
+        "image": "/cardano-ecosystem/icons/QSo1p4a3_400x400.png",
+        "twitter": "CardanoWaves"
+      },
+      {
+        "name": "ADATools.io",
+        "link": "https://adatools.io/",
+        "image": "/cardano-ecosystem/icons/LMqjYMW__400x400.jpg",
+        "twitter": "ADAOceanAus"
+      },
+      {
+        "name": "Cardano Assets",
+        "link": "https://cardanoassets.com/",
+        "image": "",
+        "twitter": ""
+      },
+      {
+        "name": "Cardano Explorer",
+        "link": "https://explorer.cardano.org/",
+        "image": "",
+        "twitter": ""
+      },
+      {
+        "name": "AdaStat",
+        "link": "https://adastat.net/",
+        "image": "/cardano-ecosystem/icons/EAEFir77_400x400.jpg",
+        "twitter": "ada_stat"
       }
     ]
   },
