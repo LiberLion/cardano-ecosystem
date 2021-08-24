@@ -26,6 +26,12 @@
         "twitter": "adax_pro"
       },
       {
+        "name": "Ardana",
+        "link": "https://ardana.org/",
+        "image": "nwXSdRDL_400x400.jpg",
+        "twitter": "ArdanaProject"
+      },
+      {
         "name": "Card Swap",
         "link": "https://www.cardstarter.io/",
         "image": "/cardano-ecosystem/icons/61ZCUVeB_400x400.jpg",
@@ -60,6 +66,12 @@
         "link": "https://ergodex.io/",
         "image": "/cardano-ecosystem/icons/2Ki1NmIs_400x400.jpg",
         "twitter": "ErgoDex"
+      },
+      {
+        "name": "Fanance",
+        "link": "https://fanance.club/",
+        "image": "bS3PjY6k_400x400.jpg",
+        "twitter": "FananceClub"
       },
       {
         "name": "Maladex (Daemon Exchange)",
@@ -141,7 +153,7 @@
     ]
   },
   {
-    "name": "IDOs (Initial DEX Offerings)",
+    "name": "Launchpads",
     "list": [
       {
         "name": "OccamFi",
@@ -156,7 +168,7 @@
         "twitter": "CardStarter"
       },
       {
-        "name": "Vent Finance",
+        "name": "VentUp",
         "link": "https://www.vent.finance/",
         "image": "/cardano-ecosystem/icons/xng2rsWI_400x400.jpg",
         "twitter": "VentFinance"
@@ -166,6 +178,12 @@
         "link": "https://trustpad.io/",
         "image": "/cardano-ecosystem/icons/p3zMHrp1_400x400.jpg",
         "twitter": "TrustPad"
+      },
+      {
+        "name": "Synthesis",
+        "link": "https://synthesis.finance/",
+        "image": "",
+        "twitter": ""
       }
     ]
   },
@@ -195,6 +213,18 @@
         "link": "https://www.liqwid.finance/",
         "image": "/cardano-ecosystem/icons/roaxsQ1O_400x400.jpg",
         "twitter": "liqwidfinance"
+      },
+      {
+        "name": "Nexo",
+        "link": "https://nexo.io/",
+        "image": "2wbZZu6q_400x400.png",
+        "twitter": "NexoFinance"
+      },
+      {
+        "name": "Paribus",
+        "link": "https://paribus.io/",
+        "image": "nkEKZbqw_400x400.jpg",
+        "twitter": "paribus_io"
       }
     ]
   },
@@ -242,6 +272,36 @@
         "link": "https://playermint.com/",
         "image": "/cardano-ecosystem/icons/2EZsYbPv_400x400.jpg",
         "twitter": "theplayermint"
+      },
+      {
+        "name": "Theos",
+        "link": "https://playermint.com/",
+        "image": "/cardano-ecosystem/icons/2EZsYbPv_400x400.jpg",
+        "twitter": "theplayermint"
+      },
+      {
+        "name": "Ridotto",
+        "link": "https://ridotto.io/",
+        "image": "9nyAzb73_400x400.jpg",
+        "twitter": "ridotto_io"
+      },
+      {
+        "name": "PlayerMint",
+        "link": "https://playermint.com/",
+        "image": "/cardano-ecosystem/icons/2EZsYbPv_400x400.jpg",
+        "twitter": "theplayermint"
+      },
+      {
+        "name": "PlayerMint",
+        "link": "https://playermint.com/",
+        "image": "/cardano-ecosystem/icons/2EZsYbPv_400x400.jpg",
+        "twitter": "theplayermint"
+      },
+      {
+        "name": "PlayerMint",
+        "link": "https://playermint.com/",
+        "image": "/cardano-ecosystem/icons/2EZsYbPv_400x400.jpg",
+        "twitter": "theplayermint"
       }
     ]
   },
@@ -265,6 +325,12 @@
         "link": "https://www.wolfram.com/",
         "image": "/cardano-ecosystem/icons/RqPloDPr_400x400.png",
         "twitter": "Wolfram_Alpha"
+      },
+      {
+        "name": "API3",
+        "link": "https://api3.org/",
+        "image": "Sgc5zYvO_400x400.jpg",
+        "twitter": "API3DAO"
       }
     ]
   },
@@ -294,6 +360,12 @@
         "link": "https://sirinlabs.com/",
         "image": "/cardano-ecosystem/icons/IONKHqt7_400x400.jpg",
         "twitter": "SIRINLABS"
+      },
+      {
+        "name": "Metaps+",
+        "link": "https://metaps.com/",
+        "image": "dperOrUk_400x400.jpg",
+        "twitter": "Metaps_PR"
       }
     ]
   },
@@ -460,10 +532,40 @@
         "twitter": "CardWallet_fi"
       },
       {
+        "name": "ccwallet.io",
+        "link": "https://ccwallet.io/",
+        "image": "KUrCswGb_400x400.jpg",
+        "twitter": "ccwalletio"
+      },
+      {
+        "name": "Ellipal",
+        "link": "https://www.ellipal.com/",
+        "image": "6Mr-Z-Tb_400x400.jpg",
+        "twitter": "ellipalwallet"
+      },
+      {
+        "name": "Exodus",
+        "link": "https://www.exodus.com/",
+        "image": "BO7X29fe_400x400.jpg",
+        "twitter": "exodus_io"
+      },
+      {
+        "name": "Game Changer",
+        "link": "https://gamechanger.finance/",
+        "image": "Lgv0NZYx_400x400.jpg",
+        "twitter": "GameChangerOk"
+      },
+      {
         "name": "GeroWallet",
         "link": "https://gerowallet.io/",
         "image": "/cardano-ecosystem/icons/PdAQXY8t_400x400.jpg",
         "twitter": "GeroWallet"
+      },
+      {
+        "name": "Guarda",
+        "link": "https://guarda.com/",
+        "image": "AZ_s0K-g_400x400.jpg",
+        "twitter": "GuardaWallet"
       },
       {
         "name": "Infinito Wallet",
@@ -476,6 +578,12 @@
         "link": "https://www.ledger.com/",
         "image": "/cardano-ecosystem/icons/N44_mYZ7_400x400.jpg",
         "twitter": "Ledger"
+      },
+      {
+        "name": "Medusa",
+        "link": "https://adawallet.io/",
+        "image": "cfel7xxl_400x400.jpg",
+        "twitter": "MedusaAdaWallet"
       },
       {
         "name": "Ray",
@@ -531,10 +639,82 @@
         "twitter": "LedgityPlatform"
       },
       {
+        "name": "SoMee",
+        "link": "https://somee.social/",
+        "image": "/cardano-ecosystem/icons/PfVOQXLt_400x400.jpg",
+        "twitter": "SoMeeOfficial"
+      },
+      {
         "name": "Tesseract",
         "link": "https://tesseract.one/",
         "image": "/cardano-ecosystem/icons/OwjwgIb4_400x400.jpg",
         "twitter": "tesseract_one"
+      },
+      {
+        "name": "TrustSwap",
+        "link": "https://www.trustswap.org/",
+        "image": "VmFLDPfk_400x400.jpg",
+        "twitter": "TrustSwap"
+      },
+      {
+        "name": "SingularityNET",
+        "link": "https://singularitynet.io/",
+        "image": "ZyFK-sfD_400x400.jpg",
+        "twitter": "singularity_net"
+      },
+      {
+        "name": "Algoz",
+        "link": "https://www.algoz.io/",
+        "image": "Jq1wB0m7_400x400.jpg",
+        "twitter": "Algoz_io"
+      },
+      {
+        "name": "Kube",
+        "link": "https://kubecoin.org/",
+        "image": "JBBRfaOe_400x400.png",
+        "twitter": "Kubecoin_"
+      },
+      {
+        "name": "Hyperledger",
+        "link": "https://www.hyperledger.org/",
+        "image": "_6vl74tM_400x400.png",
+        "twitter": "Hyperledger"
+      },
+      {
+        "name": "Alpha Impact",
+        "link": "https://alphaimpact.fi/",
+        "image": "crl30sFZ_400x400.jpg",
+        "twitter": "AlphaImpact_fi"
+      },
+      {
+        "name": "Venus",
+        "link": "https://venus.io/",
+        "image": "51QQ7Pj4_400x400.jpg",
+        "twitter": "VenusProtocol"
+      },
+      {
+        "name": "World Mobile",
+        "link": "https://worldmobile.io/",
+        "image": "IAH0UzWW_400x400.jpg",
+        "twitter": "WorldMobileTeam"
+      },
+      {
+        "name": "CardanoWall",
+        "link": "https://cardanowall.com/",
+        "image": "77QqtvFP_400x400.jpg",
+        "twitter": "CardanoWall"
+      },
+      {
+        "name": "Nervos",
+        "link": "https://www.nervos.org/",
+        "image": "xig_PnCw_400x400.jpg",
+        "twitter": "NervosNetwork"
+      },
+      {
+        "name": "Tangem",
+        "link": "https://tangem.com/",
+        "image": "dn0CFxP5_400x400.jpg",
+        "twitter": "Tangem"
       }
     ]
   }
