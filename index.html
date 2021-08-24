@@ -144,7 +144,6 @@
 
             const legend = document.getElementById('legend');
             const list = document.getElementById('list');
-            const noImg = '/cardano-ecosystem/icons/3d-5joMC_400x400.jpg';
 
             function slug(text) {
                 return text.toLowerCase().replace(/[^\w ]+/g, '').replace(/ +/g, '-')
@@ -173,7 +172,7 @@
                 category.list.forEach(function (site) {
 
                     const image = document.createElement('img')
-                    image.src = site.image ? site.image : noImg
+                    image.src = '/cardano-ecosystem/icons/' + (site.image ? site.image : '3d-5joMC_400x400.jpg')
                     image.alt = site.name
 
                     const link = document.createElement(site.link ? 'a' : 'span');
