@@ -9,7 +9,7 @@
         "twitter": "CardanoStiftung"
       },
       {
-        "name": "Blockfrost",
+        "name": "Input Output",
         "link": "https://iohk.io/",
         "image": "/cardano-ecosystem/icons/Tpdb5FCa_400x400.jpg",
         "twitter": "InputOutputHK"
@@ -272,7 +272,7 @@
     "name": "Payment",
     "list": [
       {
-        "name": "Coti",
+        "name": "COTI",
         "link": "https://coti.io/",
         "image": "/cardano-ecosystem/icons/hvwwNGrq_400x400.jpg",
         "twitter": "COTInetwork"
@@ -290,7 +290,7 @@
         "twitter": "get_revuto"
       },
       {
-        "name": "Sirin Labs",
+        "name": "Sirin",
         "link": "https://sirinlabs.com/",
         "image": "/cardano-ecosystem/icons/IONKHqt7_400x400.jpg",
         "twitter": "SIRINLABS"
@@ -319,13 +319,13 @@
         "twitter": "cardanoscanio"
       },
       {
-        "name": "ADAPools",
+        "name": "ADApools",
         "link": "https://adapools.org/",
         "image": "/cardano-ecosystem/icons/Ln5yBMHh_400x400.png",
         "twitter": "adapools_org"
       },
       {
-        "name": "Pools Stats",
+        "name": "POOLSTATS.ORG",
         "link": "https://poolstats.org/",
         "image": "",
         "twitter": ""
@@ -337,13 +337,13 @@
         "twitter": "AdaexOrg"
       },
       {
-        "name": "Pool.vet",
+        "name": "pool.vet",
         "link": "https://pool.vet/",
         "image": "",
         "twitter": ""
       },
       {
-        "name": "Pool Peek",
+        "name": "PoolPeek",
         "link": "https://poolpeek.com/#/",
         "image": "/cardano-ecosystem/icons/Jq13UHQO_400x400.jpg",
         "twitter": "CardanoPoolPeek"
@@ -379,7 +379,7 @@
         "twitter": "ADAOceanAus"
       },
       {
-        "name": "Cardano Assets",
+        "name": "CardanoAssets",
         "link": "https://cardanoassets.com/",
         "image": "",
         "twitter": ""
@@ -419,7 +419,7 @@
     "name": "Synthetic Assets",
     "list": [
       {
-        "name": "Wrap Assets",
+        "name": "WrapAssets",
         "link": "https://www.wrapassets.io/",
         "image": "/cardano-ecosystem/icons/yLqPbOQp_400x400.jpg",
         "twitter": "WrapAssets"
@@ -436,7 +436,7 @@
     "name": "Wallets",
     "list": [
       {
-        "name": "Ada Lite",
+        "name": "AdaLite",
         "link": "https://adalite.io/",
         "image": "/cardano-ecosystem/icons/ufur73Z5_400x400.jpg",
         "twitter": "AdaLiteWallet"
@@ -454,19 +454,19 @@
         "twitter": ""
       },
       {
-        "name": "Card",
+        "name": "Cardwallet",
         "link": "https://cardwallet.fi/",
         "image": "/cardano-ecosystem/icons/DlGXBSHK_400x400.png",
         "twitter": "CardWallet_fi"
       },
       {
-        "name": "Gero",
+        "name": "GeroWallet",
         "link": "https://gerowallet.io/",
         "image": "/cardano-ecosystem/icons/PdAQXY8t_400x400.jpg",
         "twitter": "GeroWallet"
       },
       {
-        "name": "Infinito",
+        "name": "Infinito Wallet",
         "link": "https://www.infinitowallet.io/",
         "image": "/cardano-ecosystem/icons/IHWMQkBO_400x400.jpg",
         "twitter": "Infinito_Ltd"
@@ -478,7 +478,7 @@
         "twitter": "Ledger"
       },
       {
-        "name": "RAY",
+        "name": "Ray",
         "link": "https://raywallet.io/",
         "image": "/cardano-ecosystem/icons/PaJuHcLL_400x400.jpg",
         "twitter": "RayWallet"
