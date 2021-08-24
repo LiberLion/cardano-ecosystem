@@ -29,6 +29,11 @@
             background-image: linear-gradient(120deg, #155799, #159957);
         }
 
+        footer {
+            margin-bottom: 2rem;
+            text-align: center;
+        }
+
         header h1 {
             font-size: 3.25rem;
             margin-top: 0;
@@ -44,6 +49,14 @@
             border-radius: 0.3rem;
             transition: color 0.2s, background-color 0.2s, border-color 0.2s;
             cursor: pointer;
+            margin-bottom: 1.5rem;
+        }
+
+        header #stats div {
+            font-size: 1.4rem;
+            display: inline-block;
+            color: #fff;
+            padding: 0 1rem;
         }
 
         a {
@@ -58,7 +71,7 @@
 
         #content {
             max-width: 50rem;
-            padding: 2rem 2rem;
+            padding: 2rem 2rem 0 2rem;
             margin: 0 auto;
             font-size: 1.1rem;
             word-wrap: break-word;
@@ -106,6 +119,11 @@
     <a class="btn" href="https://github.com/Jleagle/cardano-ecosystem/edit/main/data.json"
        target="_blank">Found a mistake?</a>
 
+    <div id="stats">
+        <div id="usd"></div>
+        <div id="usd_24h_change"></div>
+    </div>
+
 </header>
 
 <main id="content">
@@ -113,6 +131,11 @@
     <div id="list"></div>
 </main>
 
+<footer>
+    <div id="last_updated"></div>
+</footer>
+
+<!--suppress JSUnresolvedVariable -->
 <script type="text/javascript">
 
     fetch('/cardano-ecosystem/data.json')
@@ -177,9 +200,21 @@
                 });
             });
         })
+
+    fetch('https://api.coingecko.com/api/v3/simple/price?ids=cardano&vs_currencies=usd&include_24hr_change=true')
+        .then(response => response.json())
+        .then(data => {
+            document.getElementById('usd').innerText = '$' + data.cardano.usd.toFixed(2);
+            document.getElementById('usd_24h_change').innerText = data.cardano.usd_24h_change.toFixed(2) + '%';
+        })
+
+    fetch('https://api.github.com/repos/Jleagle/cardano-ecosystem/branches/main')
+        .then(response => response.json())
+        .then(data => {
+            document.getElementById('last_updated').innerText = 'Last Updated: ' + data.commit.commit.author.date.split('T')[0];
+        })
 </script>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 <script src="https://html2canvas.hertzen.com/dist/html2canvas.min.js" charset="utf-8"></script>
 <script type="text/javascript">
 
@@ -193,11 +228,10 @@
 
         html2canvas(document.querySelector("#list")).then(canvas => {
 
-            const w = window.open("");
-
             const image = new Image();
             image.src = canvas.toDataURL();
 
+            const w = window.open("");
             w.document.write(image.outerHTML);
             w.document.close();
         });
