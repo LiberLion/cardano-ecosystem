@@ -185,6 +185,12 @@
 
     const screenshot = document.getElementById('screenshot');
     screenshot.onclick = () => {
+
+        const els = document.querySelectorAll('iframe');
+        for (let i = 0; i < els.length; i++) {
+            els[i].setAttribute('data-html2canvas-ignore', 'true');
+        }
+
         html2canvas(document.querySelector("#list")).then(canvas => {
 
             const w = window.open("");
