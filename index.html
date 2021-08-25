@@ -32,16 +32,11 @@
         }
 
         header {
-            padding: 5rem 6rem;
+            padding: 5rem 0;
             color: #fff;
             text-align: center;
             background-color: #159957;
             background-image: linear-gradient(120deg, #155799, #159957);
-        }
-
-        footer {
-            margin-bottom: 2rem;
-            text-align: center;
         }
 
         header h1 {
@@ -69,6 +64,11 @@
             padding: 0 1rem;
         }
 
+        footer {
+            margin-bottom: 2rem;
+            text-align: center;
+        }
+
         a {
             color: #ccc;
             text-decoration: none;
@@ -81,7 +81,7 @@
 
         #content {
             max-width: 50rem;
-            padding: 2rem 2rem 0 2rem;
+            padding: 2rem 0;
             margin: 0 auto;
             font-size: 1.1rem;
             word-wrap: break-word;
@@ -203,7 +203,7 @@
                         const twitter = document.createElement('a')
                         twitter.classList.add('twitter-follow-button')
                         twitter.href = 'https://twitter.com/' + site.twitter
-                        twitter.setAttribute('data-size', 'large');
+                        // twitter.setAttribute('data-size', 'large'); // Bad on mobile
                         twitter.setAttribute('data-show-screen-name', 'false')
                         twitter.setAttribute('data-html2canvas-ignore', 'true')
                         row.appendChild(twitter)
