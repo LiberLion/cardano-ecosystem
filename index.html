@@ -224,6 +224,7 @@
         })
 </script>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-71Z5RLQ5ED"></script>
 <script src="https://html2canvas.hertzen.com/dist/html2canvas.min.js" charset="utf-8"></script>
 <script type="text/javascript">
 
@@ -246,6 +247,16 @@
         });
         return false;
     }
+
+    // Analytics
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+
+    gtag('js', new Date());
+    gtag('config', 'G-71Z5RLQ5ED');
 </script>
 
 </body>
