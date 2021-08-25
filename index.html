@@ -166,9 +166,13 @@
                 title.id = slug(category.name)
                 list.appendChild(title)
 
+                const legendTitleCount = document.createElement('small')
+                legendTitleCount.innerText = '(' + category.list.length + ')'
+
                 const legendTitle = document.createElement('a')
                 legendTitle.href = '#' + slug(category.name);
-                legendTitle.innerText = category.name;
+                legendTitle.innerText = category.name + ' ';
+                legendTitle.appendChild(legendTitleCount)
 
                 const li = document.createElement('li')
                 li.appendChild(legendTitle)
