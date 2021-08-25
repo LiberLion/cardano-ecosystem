@@ -213,14 +213,20 @@
     fetch('https://api.coingecko.com/api/v3/simple/price?ids=cardano&vs_currencies=usd&include_24hr_change=true')
         .then(response => response.json())
         .then(data => {
-            document.getElementById('usd').innerText = '$' + data.cardano.usd.toFixed(2);
-            document.getElementById('usd_24h_change').innerText = data.cardano.usd_24h_change.toFixed(2) + '%';
+
+            document.getElementById('usd').innerText
+                = '$' + data.cardano.usd.toFixed(2);
+
+            document.getElementById('usd_24h_change').innerText
+                = data.cardano.usd_24h_change.toFixed(2) + '%';
         })
 
     fetch('https://api.github.com/repos/Jleagle/cardano-ecosystem/branches/main')
         .then(response => response.json())
         .then(data => {
-            document.getElementById('last_updated').innerText = 'Last Updated: ' + data.commit.commit.author.date.split('T')[0];
+
+            document.getElementById('last_updated').innerText
+                = 'Last Updated: ' + data.commit.commit.author.date.split('T')[0];
         })
 </script>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -228,8 +234,8 @@
 <script src="https://html2canvas.hertzen.com/dist/html2canvas.min.js" charset="utf-8"></script>
 <script type="text/javascript">
 
-    const screenshot = document.getElementById('screenshot');
-    screenshot.onclick = () => {
+    // Download screenshot
+    document.getElementById('screenshot').onclick = () => {
 
         const twitterIframes = document.querySelectorAll('iframe');
         for (let i = 0; i < twitterIframes.length; i++) {
@@ -245,6 +251,7 @@
             w.document.write(image.outerHTML);
             w.document.close();
         });
+
         return false;
     }
 
